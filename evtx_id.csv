@@ -1,0 +1,6 @@
+category,event_id,description,Provider
+Logon Events,4624,An account was successfully logged on.,Security
+Logon Events,4625,An account failed to log on,Security
+Logon Events,4648,A logon was attempted using explicit credentials,Security
+RDP Events,1149,User authentication succeeded,Microsoft-Windows-Terminal-Services-RemoteConnectionManager
+RDP Events,21,Remote Desktop Services: Session logon succeeded,Microsoft-Windows-TerminalServices-LocalSessionManager
