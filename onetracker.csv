@@ -1,0 +1,3 @@
+group_name,portal_name,source_file,primary_url
+Filesystem Forensics,Aftermath,onetracker,https://github.com/jamf/aftermath
+Memory Forensics,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
