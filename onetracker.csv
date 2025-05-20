@@ -1,8 +1,8 @@
 group_name,portal_name,source_file,primary_url
-Filesystem Forensics,Eric Zimmerman,onetracker,https://ericzimmerman.github.io
-Filesystem Forensics,Aftermath for MacOS,onetracker,https://github.com/jamf/aftermath
-Filesystem Forensics,Fox-IT Acquire,onetracker,https://github.com/fox-it/acquire
-Filesystem Forensics,Timesketch,onetracker,https://timesketch.org/
-Memory Forensics,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
+Filesystem Forensics Tools,Eric Zimmerman,onetracker,https://ericzimmerman.github.io
+Filesystem Forensics Tools,Aftermath for MacOS,onetracker,https://github.com/jamf/aftermath
+Filesystem Forensics Tools,Fox-IT Acquire,onetracker,https://github.com/fox-it/acquire
+Filesystem Forensics Tools,Timesketch,onetracker,https://timesketch.org/
+Memory Forensics Tools,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
 Living Off The Land (LOTL),Living Off The Land Binaries and Scripts (LOLBAS),onetracker,https://lolbas-project.github.io
 Living Off The Land (LOTL),GTFOBins (Get The F* Out Binaries),onetracker,https://gtfobins.github.io
