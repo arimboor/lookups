@@ -144,3 +144,71 @@ Privacy  and Anonymizer tools,Tails,onetracker,https://tails.net/
 Threat Hunting Tools,Google GRR,onetracker,https://github.com/google/grr
 Threat Hunting Tools,Osquery,onetracker,https://osquery.io/
 Threat Hunting Tools,Velociraptor,onetracker,https://docs.velociraptor.app/downloads/
+Microsoft Portals via msportals.io,Microsoft 365 Defender,msportals.io,https://security.microsoft.com
+Microsoft Portals via msportals.io,Microsoft Defender Multi-tenant,msportals.io,https://mto.security.microsoft.com/
+Microsoft Portals via msportals.io,Microsoft Security Copilot,msportals.io,https://securitycopilot.microsoft.com/
+Microsoft Portals via msportals.io,Microsoft Defender Threat Intelligence,msportals.io,https://security.microsoft.com/intel-explorer
+Microsoft Portals via msportals.io,Microsoft Defender for Cloud Apps,msportals.io,https://security.microsoft.com/cloudapps/policies/management
+Microsoft Portals via msportals.io,Microsoft Defender for Endpoints (MDE),msportals.io,https://securitycenter.windows.com
+Microsoft Portals via msportals.io,Microsoft Defender for Identity (MDI),msportals.io,https://security.microsoft.com/
+Microsoft Portals via msportals.io,Microsoft Defender for Internet of Things (IoT),msportals.io,https://portal.azure.com/#blade/Microsoft_Azure_IoT_Defender/IoTDefenderDashboard
+Microsoft Portals via msportals.io,Microsoft Defender API Explorer,msportals.io,https://security.microsoft.com/interoperability/api-explorer
+Microsoft Portals via msportals.io,Microsoft Defender ATP Testground,msportals.io,https://demo.wd.microsoft.com/
+Microsoft Portals via msportals.io,Attack simulation training,msportals.io,https://security.microsoft.com/attacksimulator
+Microsoft Portals via msportals.io,Microsoft Defender for Cloud (MDC),msportals.io,https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0
+Microsoft Portals via msportals.io,Microsoft Secure Score,msportals.io,https://security.microsoft.com/securescore
+Microsoft Portals via msportals.io,Microsoft Security Intelligence,msportals.io,https://microsoft.com/wdsi
+Microsoft Portals via msportals.io,Multi-factor authentication (MFA),msportals.io,https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx
+Microsoft Portals via msportals.io,Microsoft AccountGuard,msportals.io,https://accountguard.microsoft.com
+Microsoft Portals via msportals.io,Office 365 Security & Compliance,msportals.io,https://protection.office.com
+Microsoft Portals via msportals.io,Entra ID Error Code Lookup,msportals.io,https://login.microsoftonline.com/error
+Microsoft Portals via msportals.io,Report an unsafe site (login),msportals.io,https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site
+Microsoft Portals via msportals.io,Report an unsafe site (guest),msportals.io,https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest
+Microsoft Portals via msportals.io,Submit a file for malware analysis,msportals.io,https://www.microsoft.com/en-us/wdsi/filesubmission
+Microsoft Portals via msportals.io,Submit Vulnerability,msportals.io,https://msrc.microsoft.com/report/vulnerability
+Microsoft Portals via msportals.io,Reporting Infringement or DCMA Notice to Microsoft,msportals.io,https://www.microsoft.com/en-us/legal/intellectualproperty/infringement
+Microsoft Portals via msportals.io,Reporting Issue with Bingbot,msportals.io,https://www.microsoft.com/en-us/legal/intellectualproperty/infringement
+Microsoft Portals via msportals.io,Submit Abuse Report (CERT),msportals.io,https://msrc.microsoft.com/report/abuse
+Microsoft Portals via msportals.io,Azure Backup Center,msportals.io,https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview
+Microsoft Portals via msportals.io,Azure Monitor,msportals.io,https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/overview
+Microsoft Portals via msportals.io,Privileged Identity Management,msportals.io,https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart
+Microsoft Portals via msportals.io,Azure Sentinel,msportals.io,https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade
+Microsoft Portals via msportals.io,Azure Virtual Desktop,msportals.io,https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview
+Microsoft Portals via msportals.io,Azure Update Manager,msportals.io,https://portal.azure.com/#view/Microsoft_Azure_Automation/UpdateCenterMenuBlade/~/gettingstarted
+Microsoft Portals via msportals.io,Azure Universal Print,msportals.io,https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview
+Microsoft Portals via msportals.io,Microsoft 365 Admin Center,msportals.io,https://admin.cloud.microsoft
+Microsoft Portals via msportals.io,Microsoft 365 Apps Admin Center,msportals.io,https://config.office.com
+Microsoft Portals via msportals.io,Exchange Admin Center (EAC),msportals.io,https://admin.cloud.microsoft/exchange#/homepage
+Microsoft Portals via msportals.io,Microsoft Intune Admin Center,msportals.io,https://intune.microsoft.com
+Microsoft Portals via msportals.io,Microsoft Stream Admin Center,msportals.io,https://web.microsoftstream.com/admin
+Microsoft Portals via msportals.io,Microsoft Purview,msportals.io,https://purview.microsoft.com/
+Microsoft Portals via msportals.io,Microsoft Teams Admin Center,msportals.io,https://admin.teams.microsoft.com
+Microsoft Portals via msportals.io,Teams Rooms Pro Management portal,msportals.io,https://portal.rooms.microsoft.com/
+Microsoft Portals via msportals.io,My Staff (preview),msportals.io,https://mystaff.microsoft.com
+Microsoft Portals via msportals.io,Power Apps Maker Portal,msportals.io,https://make.powerapps.com
+Microsoft Portals via msportals.io,Power Automate Maker Portal,msportals.io,https://make.powerautomate.com
+Microsoft Portals via msportals.io,Power BI Admin Portal,msportals.io,https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1
+Microsoft Portals via msportals.io,Power Pages Preview,msportals.io,https://make.powerpages.microsoft.com/
+Microsoft Portals via msportals.io,Power Platform admin center,msportals.io,https://admin.powerplatform.microsoft.com
+Microsoft Portals via msportals.io,Power Virtual Agents Portal,msportals.io,https://powerva.microsoft.com
+Microsoft Portals via msportals.io,Phone Number Service Center,msportals.io,https://pstnsd.powerappsportals.com/
+Microsoft Portals via msportals.io,SharePoint Admin Center,msportals.io,https://admin.microsoft.com/sharepoint
+Microsoft Portals via msportals.io,Yammer Admin,msportals.io,https://www.yammer.com/office365/admin
+Microsoft Portals via msportals.io,My Applications (My Apps),msportals.io,https://myapps.microsoft.com/
+Microsoft Portals via msportals.io,My Access,msportals.io,https://myaccess.microsoft.com/
+Microsoft Portals via msportals.io,Microsoft Azure Portal,msportals.io,https://portal.azure.com
+Microsoft Portals via msportals.io,Microsoft Azure,msportals.io,https://rc.portal.azure.com
+Microsoft Portals via msportals.io,Microsoft Azure,msportals.io,https://preview.portal.azure.com
+Microsoft Portals via msportals.io,Azure All Services,msportals.io,https://portal.azure.com/#allservices
+Microsoft Portals via msportals.io,Microsoft Entra Admin Center,msportals.io,https://entra.microsoft.com
+Microsoft Portals via msportals.io,Create New Tenant / Azure Active Directory,msportals.io,https://account.azure.com/organization
+Microsoft Portals via msportals.io,Azure Cloud Shell,msportals.io,https://shell.azure.com
+Microsoft Portals via msportals.io,Azure Cosmos DB,msportals.io,https://cosmos.azure.com
+Microsoft Portals via msportals.io,Azure Cosmos DB - Connection string authentication,msportals.io,https://cosmos.azure.com/sunset/
+Microsoft Portals via msportals.io,Azure Data Factory,msportals.io,https://adf.azure.com
+Microsoft Portals via msportals.io,Azure Synapse Analytics,msportals.io,https://web.azuresynapse.net/
+Microsoft Portals via msportals.io,Azure Non-profit Portal,msportals.io,https://nonprofit.microsoft.com
+Microsoft Portals via msportals.io,Microsoft Purview,msportals.io,https://web.purview.azure.com/
+Microsoft Portals via msportals.io,Azure Resource Explorer,msportals.io,https://resources.azure.com
+Microsoft Portals via msportals.io,Azure Resource Explorer,msportals.io,https://resources.azure.com/raw
+Microsoft Portals via msportals.io,Typespec Azure API playground (Explorer),msportals.io,https://azure.github.io/typespec-azure/playground
