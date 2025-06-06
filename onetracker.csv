@@ -8,6 +8,16 @@ Filesystem Forensics Tools,UAC,onetracker,https://github.com/tclahr/uac
 Filesystem Forensics Tools,FTK Imager,onetracker,https://www.exterro.com/digital-forensics-software/ftk-imager
 Filesystem Forensics Tools,Fox-IT Dissect,onetracker,https://github.com/fox-it/dissect
 Filesystem Forensics Tools,Kroll KAPE,onetracker,https://www.kroll.com/en-gb/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape
+Filesystem Forensics Tools,OneDriveExplorer,onetracker,https://github.com/Beercow/OneDriveExplorer
+Filesystem Forensics Tools,TestDisk and PhotoRec,onetracker,https://www.cgsecurity.org/
+Filesystem Forensics Tools,SleuthKit,onetracker,https://www.sleuthkit.org/sleuthkit/download.php
+Filesystem Forensics Tools,Plaso Log2Timeline,onetracker,https://github.com/log2timeline/plaso
+Filesystem Forensics Tools,Autopsy,onetracker,https://www.sleuthkit.org/autopsy/
+Filesystem Forensics Tools,Hindsight,onetracker,https://github.com/obsidianforensics/hindsight
+Filesystem Forensics Tools,AD Timeline,onetracker,https://github.com/ANSSI-FR/ADTimeline
+Filesystem Forensics Tools,IPED,onetracker,https://github.com/sepinf-inc/IPED
+Filesystem Forensics Tools,turbinia,onetracker,https://github.com/google/turbinia
+Filesystem Forensics Tools,KnockKnock,onetracker,https://objective-see.org/products/knockknock.html
 Memory Forensics Tools,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
 Network Forensics Tools,ZEEK,onetracker,https://zeek.org
 Living Off The Land (LOTL),Living Off The Land Binaries and Scripts (LOLBAS),onetracker,https://lolbas-project.github.io
