@@ -28,6 +28,11 @@ Filesystem Forensics Tools,srum-dump,onetracker,https://github.com/MarkBaggett/s
 Filesystem Forensics Tools,chainbreaker,onetracker,https://github.com/n0fate/chainbreaker
 Filesystem Forensics Tools,RegRipper3,onetracker,https://github.com/keydet89/RegRipper3.0
 Memory Forensics Tools,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
+Memory Forensics Tools,Volatility3,onetracker,https://volatilityfoundation.org/the-volatility-framework/
+Memory Forensics Tools,Microsoft AVML,onetracker,https://github.com/microsoft/avml
+Memory Forensics Tools,Dump-It,onetracker,https://github.com/MagnetForensics/dumpit-linux
+Memory Forensics Tools,WinPmem,onetracker,https://github.com/Velocidex/WinPmem
+Memory Forensics Tools,LinPmem,onetracker,https://github.com/Velocidex/Linpmem
 Network Forensics Tools,ZEEK,onetracker,https://zeek.org
 Network Forensics Tools,Real Intelligence Threat Analytics - RITA,onetracker,https://github.com/activecm/rita
 Network Forensics Tools,Arkime,onetracker,https://arkime.com/
