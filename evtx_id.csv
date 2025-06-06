@@ -1,6 +1,81 @@
 category,event_id,description,Provider
 Logon Events,4624,An account was successfully logged on.,Security
 Logon Events,4625,An account failed to log on,Security
+Logon Events,4634,An account was logged off.,Security
+Logon Events,4647,User initiated logoff.,Security
 Logon Events,4648,A logon was attempted using explicit credentials,Security
-RDP Events,1149,User authentication succeeded,Microsoft-Windows-Terminal-Services-RemoteConnectionManager
+Logon Events,4672,Special privileges assigned to new logon.,Security
+Logon Events,4673,A privileged service was called.,Security
+Account Management,4720,A user account was created.,Security
+Account Management,4722,A user account was enabled.,Security
+Account Management,4723,An attempt was made to change an account's password.,Security
+Account Management,4724,An attempt was made to reset an account’s password.,Security
+Account Management,4726,A user account was deleted.,Security
+Account Management,4732,A member was added to a security-enabled group.,Security
+Account Management,4733,A member was removed from a security-enabled group.,Security
+Account Management,4738,A user account was changed.,Security
+Account Management,4741,A computer account was created.,Security
+Account Management,4742,A computer account was changed.,Security
+Account Management,4743,A computer account was deleted.,Security
+Account Management,4756,A member was added to a universal security-enabled group.,Security
+Account Management,4757,A member was removed from a universal security-enabled group.,Security
+Account Management,4781,The name of an account was changed.,Security
+Policy Change,4719,System audit policy was changed.,Security
+Policy Change,4902,The Per-user audit policy table was created.,Security
+Policy Change,4904,An attempt was made to register a security event source.,Security
+Policy Change,4907,Auditing settings on an object were changed.,Security
+Process Tracking,4688,A new process has been created.,Security
+Process Tracking,4689,A process has exited.,Security
+Object Access,4657,A registry value was modified.,Security
+Object Access,4663,An attempt was made to access an object.,Security
 RDP Events,21,Remote Desktop Services: Session logon succeeded,Microsoft-Windows-TerminalServices-LocalSessionManager
+RDP Events,22,Remote Desktop Services: Shell start notification received,Microsoft-Windows-TerminalServices-LocalSessionManager
+RDP Events,23,Remote Desktop Services: Session logoff completed,Microsoft-Windows-TerminalServices-LocalSessionManager
+RDP Events,24,Remote Desktop Services: Session has been disconnected,Microsoft-Windows-TerminalServices-LocalSessionManager
+RDP Events,25,Remote Desktop Services: Session reconnection succeeded,Microsoft-Windows-TerminalServices-LocalSessionManager
+RDP Events,1149,User authentication succeeded,Microsoft-Windows-Terminal-Services-RemoteConnectionManager
+System Events,6005,The Event log service was started.,System
+System Events,6006,The Event log service was stopped.,System
+System Events,6008,The previous system shutdown was unexpected.,System
+System Events,6013,The system uptime is displayed.,System
+System Events,7034,A service terminated unexpectedly.,System
+System Events,7036,The Service Control Manager entered the running or stopped state.,System
+System Events,7040,The start type of a service was changed.,System
+System Events,7045,A new service was installed in the system.,System
+Application Events,1000,Application error: Faulting application crash.,Application
+Application Events,1001,Windows Error Reporting: Fault bucket information.,Application
+Application Events,1002,Application hang: The program stopped responding.,Application
+PowerShell Events,4103,Module logging: PowerShell command execution details.,Microsoft-Windows-PowerShell
+PowerShell Events,4104,Script block logging: PowerShell script block executed.,Microsoft-Windows-PowerShell
+PowerShell Events,4105,Start of a PowerShell command invocation.,Microsoft-Windows-PowerShell
+PowerShell Events,4106,End of a PowerShell command invocation.,Microsoft-Windows-PowerShell
+Windows Defender,1006,Malware detected and action taken.,Microsoft-Windows-Windows Defender
+Windows Defender,1116,Malware detected and quarantined.,Microsoft-Windows-Windows Defender
+WMI Events,5857,WMI activity detected (generic event).,Microsoft-Windows-WMI-Activity/Operational
+WMI Events,5858,WMI operation failed (error event).,Microsoft-Windows-WMI-Activity/Operational
+WMI Events,5861,Permanent WMI event subscription created.,Microsoft-Windows-WMI-Activity/Operational
+Sysmon Events,1,Process creation.,Microsoft-Windows-Sysmon/Operational
+Sysmon Events,3,Network connection detected.,Microsoft-Windows-Sysmon/Operational
+Sysmon Events,7,Image loaded (module loaded for a process).,Microsoft-Windows-Sysmon/Operational
+Sysmon Events,19,WMI event filter activity detected (creation or modification).,Microsoft-Windows-Sysmon/Operational
+Sysmon Events,20,WMI event consumer activity detected.,Microsoft-Windows-Sysmon/Operational
+Sysmon Events,21,WMI filter-to-consumer binding activity detected.,Microsoft-Windows-Sysmon/Operational
+Lateral Movement,4648,Explicit credential logon (often associated with WMI or WinRM lateral movement).,Security
+Lateral Movement,4624,Network logon (Type 3) indicating remote access (e.g., WMI, WinRM).,Security
+Lateral Movement,4688,Process creation (e.g., WMIC.exe or suspicious child processes of WmiPrvSE.exe).,Security
+Lateral Movement,5145,Network share access (e.g., ADMIN$ share used in WMI-based lateral movement).,Security
+Active Directory,5136,A directory service object was modified.,Security
+Active Directory,5137,A directory service object was created.,Security
+Active Directory,5138,A directory service object was undeleted.,Security
+Active Directory,5139,A directory service object was moved.,Security
+Active Directory,5141,A directory service object was deleted.,Security
+Active Directory,4661,An attempt was made to access a directory service object.,Security
+Active Directory,4662,An operation was performed on an Active Directory object.,Security
+Active Directory,4740,A user account was locked out.,Security
+Active Directory,4768,A Kerberos authentication ticket (TGT) was requested.,Security
+Active Directory,4769,A Kerberos service ticket was requested.,Security
+Active Directory,4770,A Kerberos service ticket was renewed.,Security
+Active Directory,4771,Kerberos pre-authentication failed.,Security
+Active Directory,4776,The domain controller attempted to validate credentials for an account.,Security
+Active Directory,1102,The audit log was cleared (potential AD compromise indicator).,Security
+Active Directory,4660,An object was deleted (AD object deletion).,Security
