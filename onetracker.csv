@@ -4,6 +4,29 @@ Filesystem Forensics Tools,Eric Zimmerman,onetracker,https://ericzimmerman.githu
 Filesystem Forensics Tools,Aftermath for MacOS,onetracker,https://github.com/jamf/aftermath
 Filesystem Forensics Tools,Fox-IT Acquire,onetracker,https://github.com/fox-it/acquire
 Filesystem Forensics Tools,Timesketch,onetracker,https://timesketch.org/
+Filesystem Forensics Tools,UAC (Unix-like Artifacts Collector),https://github.com/tclahr/uac
+Filesystem Forensics Tools,FTK Imager,https://www.exterro.com/digital-forensics-software/ftk-imager
+Filesystem Forensics Tools,Dissect, https://github.com/fox-it/dissect
+Filesystem Forensics Tools,KAPE (Kroll Artifact Parser And Extractor), https://www.kroll.com/en-gb/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape
+Filesystem Forensics Tools,OneDriveExplorer,https://github.com/Beercow/OneDriveExplorer
+Filesystem Forensics Tools,TestDisk and PhotoRec,https://www.cgsecurity.org/
+Filesystem Forensics Tools,SleuthKit,https://www.sleuthkit.org/sleuthkit/download.php
+Filesystem Forensics Tools,Plaso (Log2Timeline),https://github.com/log2timeline/plaso
+Filesystem Forensics Tools,Autopsy,https://www.sleuthkit.org/autopsy/
+Filesystem Forensics Tools,Hindsight,https://github.com/obsidianforensics/hindsight
+Filesystem Forensics Tools,AD Timeline,https://github.com/ANSSI-FR/ADTimeline
+Filesystem Forensics Tools,IPED,https://github.com/sepinf-inc/IPED
+Filesystem Forensics Tools,turbinia,https://github.com/google/turbinia
+Filesystem Forensics Tools,KnockKnock,https://objective-see.org/products/knockknock.html
+Filesystem Forensics Tools,bulk_extractor,https://github.com/simsong/bulk_extractor
+Filesystem Forensics Tools,Meerkat,https://github.com/TonyPhipps/Meerkat
+Filesystem Forensics Tools,docker-explorer,https://github.com/google/docker-explorer
+Filesystem Forensics Tools,mac_apt (macOS/ iOS Artifact Parsing Tool),https://github.com/ydkhatri/mac_apt
+Filesystem Forensics Tools,SPECTR3,https://github.com/alpine-sec/SPECTR3
+Filesystem Forensics Tools,artifactcollector,https://github.com/forensicanalysis/artifactcollector
+Filesystem Forensics Tools,srum-dump,https://github.com/MarkBaggett/srum-dump
+Filesystem Forensics Tools,chainbreaker, https://github.com/n0fate/chainbreaker
+Filesystem Forensics Tools,RegRipper3.0, https://github.com/keydet89/RegRipper3.0
 Memory Forensics Tools,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
 Network Forensics Tools,ZEEK,onetracker,https://zeek.org
 Living Off The Land (LOTL),Living Off The Land Binaries and Scripts (LOLBAS),onetracker,https://lolbas-project.github.io
