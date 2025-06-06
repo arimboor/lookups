@@ -45,3 +45,99 @@ Network Forensics Tools,Dshell,onetracker,https://github.com/USArmyResearchLab/D
 Network Forensics Tools,Microsoft Network Monitor,onetracker,https://www.microsoft.com/en-gb/download/details.aspx?id=4865
 Living Off The Land (LOTL),Living Off The Land Binaries and Scripts (LOLBAS),onetracker,https://lolbas-project.github.io
 Living Off The Land (LOTL),GTFOBins (Get The F* Out Binaries),onetracker,https://gtfobins.github.io
+Log Forensics Tools,chainsaw,onetracker,https://github.com/WithSecureLabs/chainsaw
+Log Forensics Tools,hayabusa,onetracker,https://github.com/Yamato-Security/hayabusa
+Log Forensics Tools,DeepBlueCLI,onetracker,https://github.com/sans-blue-team/DeepBlueCLI
+Log Forensics Tools,Zircolite,onetracker,https://github.com/wagga40/Zircolite
+Log Forensics Tools,LogonTracer,onetracker,https://github.com/JPCERTCC/LogonTracer
+Log Forensics Tools,Microsoft Log Parser,onetracker,https://www.microsoft.com/en-gb/download/details.aspx?id=24659
+Log Forensics Tools,APT-Hunter,onetracker,https://github.com/ahmedkhlief/APT-Hunter
+Mobile Forenscis Tools,MVT - Mobile Verification Toolkit,onetracker,https://docs.mvt.re/en/latest/
+Cloud Forensics Tools,Microsoft-Extractor-Suite,onetracker,https://github.com/invictus-ir/Microsoft-Extractor-Suite
+Cloud Forensics Tools,cloudgrep,onetracker,https://github.com/cado-security/cloudgrep
+Cloud Forensics Tools,Google cloud-forensics-utils,onetracker,https://github.com/google/cloud-forensics-utils
+Cloud Forensics Tools,Invictus-AWS,onetracker,https://github.com/invictus-ir/Invictus-AWS
+Cloud Forensics Tools,hawk,onetracker,https://github.com/T0pCyber/hawk
+Cloud Forensics Tools,Mirage,onetracker,https://github.com/SygniaLabs/Mirage
+Cloud Forensics Tools,ALFA,onetracker,https://github.com/invictus-ir/ALFA
+Reverse Engineering Tools,ghidra,onetracker,https://github.com/NationalSecurityAgency/ghidra
+Reverse Engineering Tools,x64dbg,onetracker,https://x64dbg.com/
+Reverse Engineering Tools,CAPA,onetracker,https://mandiant.github.io/capa/
+Reverse Engineering Tools,FRIDA,onetracker,https://frida.re/
+Reverse Engineering Tools,cutter,onetracker,https://cutter.re/
+Reverse Engineering Tools,bindiff,onetracker,https://github.com/google/bindiff
+Reverse Engineering Tools,IDA Free,onetracker,https://hex-rays.com/ida-free
+Reverse Engineering Tools,radare2,onetracker,https://rada.re/n/radare2.html
+Reverse Engineering Tools,Binary Ninja,onetracker,https://binary.ninja/free/
+Reverse Engineering Tools,APKTool,onetracker,https://github.com/iBotPeaches/Apktool
+Reverse Engineering Tools,ImHex,onetracker,https://github.com/WerWolv/ImHex
+Reverse Engineering Tools,HxD,onetracker,https://mh-nexus.de/en/hxd/
+Reverse Engineering Tools,PEBear,onetracker,https://hshrzd.wordpress.com/pe-bear/
+Reverse Engineering Tools,pestudio,onetracker,https://www.winitor.com/download
+Reverse Engineering Tools,systeminformer,onetracker,https://github.com/winsiderss/systeminformer
+Reverse Engineering Tools,Process Explorer,onetracker,https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+Reverse Engineering Tools,qiling,onetracker,https://github.com/qilingframework/qiling
+Reverse Engineering Tools,blint,onetracker,https://github.com/owasp-dep-scan/blint
+Reverse Engineering Tools,DLest,onetracker,https://github.com/PhrozenIO/DLest
+Reverse Engineering Tools,angr,onetracker,https://angr.io/
+Reverse Engineering Tools,dnSpy,onetracker,https://github.com/dnSpy/dnSpy
+Attack Surface Discovery Tools,netlas.io,onetracker,https://netlas.io/
+Attack Surface Discovery Tools,dirsearch,onetracker,https://github.com/maurosoria/dirsearch
+Attack Surface Discovery Tools,blackbird,onetracker,https://github.com/p1ngul1n0/blackbird
+Attack Surface Discovery Tools,grayhatwarfare,onetracker,https://buckets.grayhatwarfare.com/
+Attack Surface Discovery Tools,zoomEye,onetracker,https://www.zoomeye.ai/
+Attack Surface Discovery Tools,zmap,onetracker,https://github.com/zmap/zmap
+Attack Surface Discovery Tools,naabu,onetracker,https://github.com/projectdiscovery/naabu
+Attack Surface Discovery Tools,katana,onetracker,https://github.com/projectdiscovery/katana
+Attack Surface Discovery Tools,shoden,onetracker,https://www.shodan.io/
+Attack Surface Discovery Tools,gitleaks,onetracker,https://github.com/gitleaks/gitleaks
+Attack Surface Discovery Tools,subfinder,onetracker,https://github.com/projectdiscovery/subfinder
+Attack Surface Discovery Tools,trufflehog,onetracker,https://github.com/trufflesecurity/trufflehog
+Attack Surface Discovery Tools,S3Scanner,onetracker,https://github.com/sa7mon/S3Scanner
+Attack Surface Discovery Tools,CloudBrute,onetracker,https://github.com/0xsha/CloudBrute
+Attack Surface Discovery Tools,censys.io,onetracker,https://search.censys.io/
+Attack Surface Discovery Tools,lookyloo,onetracker,https://github.com/Lookyloo/lookyloo
+Attack Surface Discovery Tools,maltego basic,onetracker,https://www.maltego.com/pricing/
+Attack Surface Discovery Tools,cloudlist,onetracker,https://github.com/projectdiscovery/cloudlist
+Attack Surface Discovery Tools,httpx,onetracker,https://github.com/projectdiscovery/httpx
+Threat Intelligence Tools,Have I Been Sold,onetracker,https://haveibeensold.app/
+Threat Intelligence Tools,PhishTank,onetracker,https://phishtank.org/
+Threat Intelligence Tools,haveibeensquatt?d,onetracker,https://haveibeensquatted.com/
+Threat Intelligence Tools,Intel owl,onetracker,https://intelowlproject.github.io/
+Threat Intelligence Tools,threatminer,onetracker,https://www.threatminer.org/
+Threat Intelligence Tools,ThreatLog,onetracker,https://www.threatlog.com/
+Threat Intelligence Tools,EchoTrail,onetracker,https://www.echotrail.io/insights
+Threat Intelligence Tools,Yeti,onetracker,https://yeti-platform.io/
+Threat Intelligence Tools,BreachDirectory,onetracker,https://breachdirectory.org/
+Threat Intelligence Tools,IPStack,onetracker,https://ipstack.com/
+Threat Intelligence Tools,Have I Been Pwned,onetracker,https://haveibeenpwned.com/
+Threat Intelligence Tools,MISP,onetracker,https://www.misp-project.org/download/
+Threat Intelligence Tools,Open-CTI,onetracker,https://github.com/OpenCTI-Platform/opencti
+Vulnerability Intelligence Tools,cvemap,onetracker,https://github.com/projectdiscovery/cvemap
+Vulnerability Intelligence Tools,cve.org,onetracker,https://www.cve.org/Downloads
+Vulnerability Intelligence Tools,SeeBug,onetracker,https://www.seebug.org/
+Vulnerability Intelligence Tools,CVEdetails,onetracker,https://www.cvedetails.com/
+Vulnerability Intelligence Tools,zeroday initiative,onetracker,https://www.zerodayinitiative.com/advisories/upcoming/
+Vulnerability Intelligence Tools,Vulmon,onetracker,https://vulmon.com/
+Vulnerability Intelligence Tools,VulDb,onetracker,https://vuldb.com/
+Vulnerability Intelligence Tools,OSV,onetracker,https://osv.dev/list
+Vulnerability Intelligence Tools,Coalition Exploit Scoring System,onetracker,https://ess.coalitioninc.com/
+Vulnerability Intelligence Tools,Zero-day Vulnerability Database,onetracker,https://www.zero-day.cz/database/
+Vulnerability Intelligence Tools,Vulners,onetracker,https://vulners.com/search
+Vulnerability Intelligence Tools,Rapid7,onetracker,https://www.rapid7.com/db/
+Vulnerability Intelligence Tools,Exploit-DB,onetracker,https://www.exploit-db.com/
+Vulnerability Intelligence Tools,cxsecurity,onetracker,https://cxsecurity.com/
+Vulnerability Intelligence Tools,inTheWild,onetracker,https://inthewild.io/feed
+Malware Sandbox Tools,ThreatZone,onetracker,https://threat.zone/
+Malware Sandbox Tools,joesandbox,onetracker,https://www.joesandbox.com
+Malware Sandbox Tools,Noriben,onetracker,https://github.com/Rurik/Noriben
+Malware Sandbox Tools,hybrid-analysis,onetracker,https://hybrid-analysis.com/
+Malware Sandbox Tools,CAPEv2,onetracker,https://github.com/kevoreilly/CAPEv2
+Malware Sandbox Tools,Any.Run,onetracker,https://any.run/
+Privacy  and Anonymizer tools,HyPhanet,onetracker,https://www.hyphanet.org/
+Privacy  and Anonymizer tools,I2P,onetracker,https://geti2p.net/en/
+Privacy  and Anonymizer tools,TOR,onetracker,https://www.torproject.org/
+Privacy  and Anonymizer tools,Tails,onetracker,https://tails.net/
+Threat Hunting Tools,Google GRR,onetracker,https://github.com/google/grr
+Threat Hunting Tools,Osquery,onetracker,https://osquery.io/
+Threat Hunting Tools,Velociraptor,onetracker,https://docs.velociraptor.app/downloads/
