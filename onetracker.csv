@@ -29,5 +29,14 @@ Filesystem Forensics Tools,chainbreaker,onetracker,https://github.com/n0fate/cha
 Filesystem Forensics Tools,RegRipper3,onetracker,https://github.com/keydet89/RegRipper3.0
 Memory Forensics Tools,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
 Network Forensics Tools,ZEEK,onetracker,https://zeek.org
+Network Forensics Tools,Real Intelligence Threat Analytics - RITA,onetracker,https://github.com/activecm/rita
+Network Forensics Tools,Arkime,onetracker,https://arkime.com/
+Network Forensics Tools,IVRE,onetracker,https://ivre.rocks/
+Network Forensics Tools,Wireshark,onetracker,https://www.wireshark.org/
+Network Forensics Tools,Sniffnet,onetracker,https://sniffnet.net/
+Network Forensics Tools,Malcolm,onetracker,https://cisagov.github.io/Malcolm/
+Network Forensics Tools,kubeshark,onetracker,https://github.com/kubeshark/kubeshark
+Network Forensics Tools,Dshell,onetracker,https://github.com/USArmyResearchLab/Dshell
+Network Forensics Tools,Microsoft Network Monitor,onetracker,https://www.microsoft.com/en-gb/download/details.aspx?id=4865
 Living Off The Land (LOTL),Living Off The Land Binaries and Scripts (LOLBAS),onetracker,https://lolbas-project.github.io
 Living Off The Land (LOTL),GTFOBins (Get The F* Out Binaries),onetracker,https://gtfobins.github.io
