@@ -18,6 +18,7 @@ Filesystem Forensics Tools,AD Timeline,onetracker,https://github.com/ANSSI-FR/AD
 Filesystem Forensics Tools,IPED,onetracker,https://github.com/sepinf-inc/IPED
 Filesystem Forensics Tools,turbinia,onetracker,https://github.com/google/turbinia
 Filesystem Forensics Tools,KnockKnock,onetracker,https://objective-see.org/products/knockknock.html
+Filesystem Forensics Tools,bulk_extractor,onetracker,https://github.com/simsong/bulk_extractor
 Memory Forensics Tools,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
 Network Forensics Tools,ZEEK,onetracker,https://zeek.org
 Living Off The Land (LOTL),Living Off The Land Binaries and Scripts (LOLBAS),onetracker,https://lolbas-project.github.io
