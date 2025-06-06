@@ -19,6 +19,14 @@ Filesystem Forensics Tools,IPED,onetracker,https://github.com/sepinf-inc/IPED
 Filesystem Forensics Tools,turbinia,onetracker,https://github.com/google/turbinia
 Filesystem Forensics Tools,KnockKnock,onetracker,https://objective-see.org/products/knockknock.html
 Filesystem Forensics Tools,bulk_extractor,onetracker,https://github.com/simsong/bulk_extractor
+Filesystem Forensics Tools,Meerkat,onetracker,https://github.com/TonyPhipps/Meerkat
+Filesystem Forensics Tools,docker-explorer,onetracker,https://github.com/google/docker-explorer
+Filesystem Forensics Tools,mac_apt for MacOS,onetracker,https://github.com/ydkhatri/mac_apt
+Filesystem Forensics Tools,SPECTR3,onetracker,https://github.com/alpine-sec/SPECTR3
+Filesystem Forensics Tools,artifactcollector,onetracker,https://github.com/forensicanalysis/artifactcollector
+Filesystem Forensics Tools,srum-dump,onetracker,https://github.com/MarkBaggett/srum-dump
+Filesystem Forensics Tools,chainbreaker,onetracker,https://github.com/n0fate/chainbreaker
+Filesystem Forensics Tools,RegRipper3,onetracker,https://github.com/keydet89/RegRipper3.0
 Memory Forensics Tools,MemProcFS,onetracker,https://github.com/ufrisk/MemProcFS
 Network Forensics Tools,ZEEK,onetracker,https://zeek.org
 Living Off The Land (LOTL),Living Off The Land Binaries and Scripts (LOLBAS),onetracker,https://lolbas-project.github.io
