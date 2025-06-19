@@ -1,2 +1,5 @@
 evidencetype,sort_order,source
 Win-MFT, 1, kanvas
+Win-PreFetch,2,kanvas
+"Win-Registry-Generic,3,kanvas
+
