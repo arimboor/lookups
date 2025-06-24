@@ -7,6 +7,7 @@ Logon Events,4648,A logon was attempted using explicit credentials,Security
 Logon Events,4672,Special privileges assigned to new logon.,Security
 Logon Events,4673,A privileged service was called.,Security
 Account Management,4720,A user account was created.,Security
+Account Management,4798,A user's local group membership was enumerated.,Security
 Account Management,4722,A user account was enabled.,Security
 Account Management,4723,An attempt was made to change an account's password.,Security
 Account Management,4724,An attempt was made to reset an account’s password.,Security
