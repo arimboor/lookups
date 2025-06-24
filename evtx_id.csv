@@ -80,7 +80,7 @@ Active Directory,4771,Kerberos pre-authentication failed.,Security
 Active Directory,4776,The domain controller attempted to validate credentials for an account.,Security
 Active Directory,1102,The audit log was cleared (potential AD compromise indicator).,Security
 Active Directory,4660,An object was deleted (AD object deletion).,Security
-Schedule task - Persistence,4698,A scheduled task was created.,Security
+Schedule task,4698,A scheduled task was created.,Security
 Schedule task,106,This event is logged when the user registered the Task Scheduler task.,Microsoft-Windows-Task-Scheduler/Operational
 Schedule task,140,This event is logged when a Task Scheduler task is updated,Microsoft-Windows-Task-Scheduler/Operational
 Schedule task,141,This event is logged when a Task Scheduler task is deleted,Microsoft-Windows-Task-Scheduler/Operational
