@@ -92,7 +92,7 @@ Attack Surface Discovery Tools,zoomEye,onetracker,https://www.zoomeye.ai/
 Attack Surface Discovery Tools,zmap,onetracker,https://github.com/zmap/zmap
 Attack Surface Discovery Tools,naabu,onetracker,https://github.com/projectdiscovery/naabu
 Attack Surface Discovery Tools,katana,onetracker,https://github.com/projectdiscovery/katana
-Attack Surface Discovery Tools,shoden,onetracker,https://www.shodan.io/
+Attack Surface Discovery Tools,shodan,onetracker,https://www.shodan.io/
 Attack Surface Discovery Tools,gitleaks,onetracker,https://github.com/gitleaks/gitleaks
 Attack Surface Discovery Tools,subfinder,onetracker,https://github.com/projectdiscovery/subfinder
 Attack Surface Discovery Tools,trufflehog,onetracker,https://github.com/trufflesecurity/trufflehog
