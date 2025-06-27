@@ -1,3 +1,14 @@
 AppId,AppDisplayName,AppOwnerOrganizationId,Source
 e9a7fea1-1cc0-4cd9-a31b-9137ca5deedd,eM Client application,na,https://www.invictus-ir.com/news/forensic-analysis-of-em-client
-ff8d92dc-3d82-41d6-bcbd-b9174d163620,PERFECTDATA SOFTWARE,na,https://cybercorner.tech/malicious-azure-application-perfectdata-software-and-office365-business-email-compromise/
+ff8d92dc-3d82-41d6-bcbd-b9174d163620,PERFECTDATA SOFTWARE,na,https://cybercorner.tech/malicious-azure-application-perfectdata-software-and-office365-business-email-compromise
+a43e5392-f48b-46a4-a0f1-098b5eeb4757,Fake CloudSponge,https://lethal-forensics.com
+77468577-4f6e-40e7-b745-11d3d0c28095,Fake Fastmail,https://lethal-forensics.com
+2ef68ccc-8a4d-42ff-ae88-2d7bb89ad139,Fake Mail_Backup,https://lethal-forensics.com
+a245e8c0-b53c-4b67-9b45-751d1dff8e6b,Fake Newsletter Software Supermailer,https://lethal-forensics.com
+179d5108-412b-4c95-8e34-06786784ab39,PostBox,https://lethal-forensics.com
+4761b959-9780-4c2d-87a3-512b4638f767,rclone,https://lethal-forensics.com
+caffae8c-0882-4c81-9a27-d1803af53a40,SigParser,https://lethal-forensics.com
+946c777c-bc85-489e-b034-392389ae23d6,Spike,https://lethal-forensics.com
+aebc6443-996d-45c2-90f0-388ff96faa56,Visual Studio Code,https://lethal-forensics.com
+497ac034-5120-4c1a-929a-0351f5c09918,Fake ZoomInfo Communitiez Login,https://lethal-forensics.com
+858d7e42-35f0-44b7-9033-df309239a47f,Fake Zoominfo Login,https://lethal-forensics.com
