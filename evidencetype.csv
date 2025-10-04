@@ -16,8 +16,5 @@ System-Logs,18,kanvas
 Network-Logs,19,kanvas
 Netflow-Logs,20,kanvas
 DNS-Logs,21,kanvas
-AWS-CloudTrail-Logs,22,kanvas
 XDR-Logs,23,kanvas
-GCP-Logs,24,kanvas
-Memory-Dump,25,kanvas
 Web-Proxy-Logs,29,kanvas
